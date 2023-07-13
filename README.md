@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swarnavap80
 - 👀 I’m interested in web and app  development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate....
 - 📫 How to reach me ...swarnavap80@gmail.com
 
