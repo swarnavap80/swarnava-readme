@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @swarnavap80
+- 👋 Hi, I’m swarnava paul
+- 💻 currently pursuing B.tech CSE AIML 
 - 👀 I’m interested in web and app  development
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate....
